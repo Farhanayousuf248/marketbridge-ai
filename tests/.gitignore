@@ -1,0 +1,26 @@
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Test and coverage files
+.coverage
+htmlcov/
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
